@@ -12,3 +12,6 @@ I've created a Disney+ UI clone using `html`, `css` and `javascript`. This clone
 As though, it only has one web-page, i.e. homepage. It has several small components like navbar, searchbox, slider and carousel with infinity effect.
 
 I've also included some random movie cards with topics such as - 'Recommended For You',  'Popular Shows' and etc.
+
+## Access the UI Clone here :)
+https://sbiyfe.csb.app/
