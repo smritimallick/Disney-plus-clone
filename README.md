@@ -14,4 +14,4 @@ As though, it only has one web-page, i.e. homepage. It has several small compone
 I've also included some random movie cards with topics such as - 'Recommended For You',  'Popular Shows' and etc.
 
 ## Access the UI Clone here :)
-https://sbiyfe.csb.app/
+[Disney+ Hotstar UI clone](https://sbiyfe.csb.app/)
